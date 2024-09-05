@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Eric Liu"
+  text: "Course 6-3 MIT 2025"
+  tagline: "Portfolio for 6.1040"
   actions:
     - theme: brand
       text: Template Repository
